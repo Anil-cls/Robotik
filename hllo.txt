@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Anıl Çalış</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
+</head>
+<body>
+<header>
+    <h1>Anıl Çalış</h1>
+    <img src="https://cdn.pixabay.com/photo/2019/09/16/08/38/wallpaper-4480309_1280.jpg" width="300" alt="Anıl"/>
+    <nav>
+        <ul>
+            <li><a href="#summary">Özet</a></li>
+            <li><a href="#education">Eğitim</a></li>
+            <li><a href="#skills">Yetenekler</a></li>
+            <li><a href="#dreams">Hayaller</a></li>
+            <li><a href="#contact">İletişim</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <article>
+        <section id="summary">
+            <h2>
+                Özet
+            </h2>
+            <p>
+                Bu büyük <b>kapışmada</b> kendi <i>web sayfamızı</i> oluşturmada birbirimizle yarışacağız!!1
+            </p>
+        </section>
+        <section id="education">
+            <h2>Eğitim</h2>
+            <ul>
+				<li>
+                    <strong >Halduntener İlkokulu</strong><br>
+                    
+                </li>
+                <li>
+                    <strong >Bahçeşehir Koleji</strong><br>
+                    
+                </li>
+				<li>
+                    <strong >Kabataş Erkek Lisesi</strong><br>
+              	
+            </ul>
+        </section>
+        <section id="skills">
+            <h2>Yetenekler</h2>
+            <ol>
+                <li>
+                    Spor
+                </li>
+                <li>
+                    Oyun
+                </li>
+            </ol>
+        </section>
+        <section id="dreams">
+            <h2>
+                Hayaller
+            </h2>
+            <p>
+                Kendi teknoloji şirketimi kurup dünyaya hayatı kolaylaştıracak teknolojiler sunmak istiyorum
+            </p>
+        </section>
+    </article>
+</main>
+<footer>
+    <section id="contact">
+        <h2>İletişim</h2>
+        <ul>
+            <li>
+                <a href="mailto:anillkel25@gmail.com">E-mail</a>
+            </li>
+			<li><a href="https://github.com/Anil-cls">Github</a></li>
+        </ul>
+    </section>
+</footer>
+</body>
+</html>
